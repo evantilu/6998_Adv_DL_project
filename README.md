@@ -1,4 +1,4 @@
-# 6998 Adv DL Project
-- My personal project for COMS 6998 Advanced Deep Learning Project Course at Columbia University
+# COMS6998 Advcanced Deep Learning Project
+- My personal project for COMS 6998 Advanced Deep Learning Project Course at Columbia University. A novel attemp of turing housing price prediction problem into an image recognition problem and solve using CNNs
 - Professor: Peter N. Belhumeur
 - Final Grade: A+
